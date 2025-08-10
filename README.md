@@ -79,7 +79,7 @@ Created an **interactive dashboard** with:
 ---
 
 ## 📊 Final Dashboard Preview
-![Dashboard Preview]()
+![Dashboard Preview](Visual.PNG)
 
 ---
 
