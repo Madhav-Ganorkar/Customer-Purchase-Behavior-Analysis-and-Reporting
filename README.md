@@ -18,9 +18,9 @@ The dataset contains detailed customer purchase records for an online retail com
 
 **Columns:**
 - `TransactionID` → Unique ID for each transaction  
-- `CustomerID` → Unique ID for each customer  
+- `CustomerID` → ID for each customer  
 - `CustomerName` → Name of the customer  
-- `ProductID` → Unique ID for each product  
+- `ProductID` → ID for each product  
 - `ProductName` → Name of the product  
 - `ProductCategory` → Product classification (e.g., Electronics, Home Appliances)  
 - `PurchaseQuantity` → Number of items purchased  
@@ -40,8 +40,8 @@ The dataset contains detailed customer purchase records for an online retail com
 - Created separate tables for Customers, Products, and Transactions for better organization (Normalization).
 - Wrote aggregation queries to:
   - Calculate total purchases per customer
-  - Total sales per product/category
-  - Monthly & yearly revenue trends
+  - Total sales per product/category/Country
+  - Top Selling Products
 
 ---
 
